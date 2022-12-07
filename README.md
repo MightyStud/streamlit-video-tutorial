@@ -17,3 +17,7 @@
 This project was made as a helper repo to follow along while initializing a streamit wep-app.
 
 [Link to Video in Arabic](https://youtu.be/6HlSaLuqw3w)
+
+## Full version
+
+The full version of this Web-App is available on this [repo](https://github.com/MightyStud/High-School-Data-Analysis-Streamlit-App)
