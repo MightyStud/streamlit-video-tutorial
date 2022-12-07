@@ -14,6 +14,6 @@
 
 ## Motivation
 
-This project was made as a helper repo to initialize a streamit wep-app.
+This project was made as a helper repo to follow along while initializing a streamit wep-app.
 
 [Link to Video in Arabic](https://youtu.be/6HlSaLuqw3w)
